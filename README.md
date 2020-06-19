@@ -6,6 +6,10 @@
 `pyhton3 pi.py`
 or
 `pyhton pi.py`
+
+
+
+
 Clone or download this file and run with Python 2 or 3 and it will calculate 1000th digit of the pi.
 
 # Customization
